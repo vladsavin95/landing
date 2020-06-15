@@ -73,6 +73,11 @@ p {
   font-size: 24px;
 }
 
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /* Cards */
 .cards {
   display: grid;
